@@ -3,3 +3,9 @@
   margin: 0;
   box-sizing: border-box;
 }
+
+.box {
+  border-radius: 0.5rem;
+  border: 1px solid orangered;
+  padding: 0.5rem;
+}
